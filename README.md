@@ -6,3 +6,7 @@
 
 ## Server Tested on
 - Warmane
+
+
+## INFO ON THE CHECK WARDEN IS DOING 
+-- https://community.trinitycore.org/topic/14569-ant-pqr-script/
